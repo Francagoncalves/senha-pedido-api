@@ -1,3 +1,9 @@
 {
-  "numero": "000"
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  }
 }
