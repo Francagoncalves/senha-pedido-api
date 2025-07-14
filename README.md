@@ -1,9 +1,6 @@
 {
-  "build": {
-    "preview": {
-      "android": {
-        "buildType": "apk"
-      }
-    }
+  "senha": {
+    "numero": "000"
   }
 }
+
